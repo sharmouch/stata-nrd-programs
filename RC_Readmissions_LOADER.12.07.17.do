@@ -1189,5 +1189,5 @@ drop if _merge!=3;
 drop _merge;
 save "NRD_2014_Core_Readmit_Narrow_Hosp_Severity.dta", replace;
 
- 
+Hey there!! this is pretty cool- its like a shared google doc but for programming :D
  
